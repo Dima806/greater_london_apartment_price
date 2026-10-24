@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.llm/
+.agents/
+agent/
+.claude/skills/
+
+# Project data: keep the committed frozen sample (data/sample) and model
+# (models/model.pkl); ignore the full Land Registry download + intermediates.
+data/raw/
+data/processed/

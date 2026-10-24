@@ -1,0 +1,4 @@
+# Optional display-only conversion rates from GBP. Approximate; refresh manually.
+# A future extension refreshes these periodically (see PRD §11).
+EUR: 1.17
+USD: 1.27
